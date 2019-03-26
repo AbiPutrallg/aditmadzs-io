@@ -21,6 +21,14 @@ animation:glitch 2s linear infinite;
 margin-bottom:110px;
 }
 
+.btn-6d {
+border: 2px dashed #226fbe;
+}
+
+.btn-6d:hover {
+background: transparent;
+color: #226fbe;
+}
 
 .glitch-text, button{
 font-family: monospace;
